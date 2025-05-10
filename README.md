@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<div align="center"> <img src="https://metrics.lecoq.io/Guard42?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
 <!--
 **Guard42/Guard42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
